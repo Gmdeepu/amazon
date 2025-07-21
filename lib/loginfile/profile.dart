@@ -50,7 +50,7 @@ class _ProfilepageState extends State<Profilepage> {
                     border: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(10),
                     ),
-                    hintText: "Enter your name",
+                    hintText: "Enter your phonenumber",
                   ),
                 ),
               ),
