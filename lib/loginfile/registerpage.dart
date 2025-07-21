@@ -31,7 +31,7 @@ class _RegisterpageState extends State<Registerpage> {
               ),
             ),
             Text("Welcome back!", style: TextStyle(fontSize: 16)),
-            Text("Please enter your details", style: TextStyle(fontSize: 16)),
+            Text("Please enter your Name", style: TextStyle(fontSize: 16)),
             SizedBox(height: 30),
             Row(
               mainAxisAlignment: MainAxisAlignment.start,
