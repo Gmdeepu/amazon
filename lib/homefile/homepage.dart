@@ -50,7 +50,7 @@ class _HomepageState extends State<Homepage> {
                 child: TextFormField(
                   decoration: InputDecoration(
                     filled: true,
-                    fillColor: const Color.fromARGB(255, 2, 36, 82),
+                    fillColor: const Color.fromARGB(255, 162, 195, 240),
                     border: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(100),
                     ),
